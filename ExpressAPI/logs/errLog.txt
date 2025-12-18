@@ -1,0 +1,3 @@
+20251218	18:31:22	882b6bd8-9649-455f-bf97-96105bde7954	Error: Not allowed by CORS
+20251218	18:31:25	12fcce04-e79d-4066-8377-b4988c0eedc2	Error: Not allowed by CORS
+20251218	19:12:25	6c3ba332-d512-42cf-aa05-81817e9b6bc6	TypeError: Cannot read properties of undefined (reading 'id')
